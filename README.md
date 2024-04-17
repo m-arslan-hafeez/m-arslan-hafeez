@@ -5,11 +5,11 @@
 </h1>
 
 <div id="badges">
-  <a target="_blank" href="https://www.linkedin.com/in/abdul-hannan-8a78b01bb/">
+  <a target="_blank" href="https://www.linkedin.com/in/m-arslan-hafeez-1819a2138/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp; &nbsp;
-  <a href="mailto: abdulhannan8540680@gmail.com">
+  <a href="mailto: arslanhafeez1211@gmail.com">
     <img src="https://img.shields.io/badge/email-blue?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
   </a>
 </div>  
@@ -62,7 +62,7 @@
 You may reach me via email at:  
 
 <a href="mailto: arslanhafeez1211@gmail.com">
-  <img src="https://img.shields.io/badge/-Abdul%20Hannan-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <img src="https://img.shields.io/badge/-M%20Arslan%20Hafeez-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
     
  <br/>
@@ -70,5 +70,5 @@ You may reach me via email at:
 or linkedin: 
 
 <a target="_blank" href="https://www.linkedin.com/in/m-arslan-hafeez-1819a2138/">
-  <img src="https://img.shields.io/badge/-Abdul%20Hannan-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/-M%20Arslan%20Hafeez-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
