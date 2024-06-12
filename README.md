@@ -20,17 +20,17 @@
 #### Versatile Developer:
   - Proficient in both App and Web Development, I excel in crafting immersive digital experiences.
 
---Passionate Programmer:
-    Coding enthusiast with a knack for turning lines of code into elegant solutions.
+#### Passionate Programmer:
+  - Coding enthusiast with a knack for turning lines of code into elegant solutions.
 
---Creative Problem Solver:
-    Thrives on tackling challenges head-on, finding innovative solutions that surpass expectations.
+#### Creative Problem Solver:
+  - Thrives on tackling challenges head-on, finding innovative solutions that surpass expectations.
 
---Collaboration Advocate:
-    Enjoys working with fellow programmers, believing in the power of teamwork for superior results.
+#### Collaboration Advocate:
+  - Enjoys working with fellow programmers, believing in the power of teamwork for superior results.
 
---Dectuple Solution CEO:
-    Proud leader of Dectuple Solution, dedicated to delivering excellence and innovation in every project.
+#### Dectuple Solution CEO:
+  - Proud leader of Dectuple Solution, dedicated to delivering excellence and innovation in every project.
 
 ---
 
