@@ -17,7 +17,7 @@
 ---
 
 ### :man_technologist: About Me :
--Versatile Developer:
+- Versatile Developer:
       Proficient in both App and Web Development, I excel in crafting immersive digital experiences.
 
 --Passionate Programmer:
