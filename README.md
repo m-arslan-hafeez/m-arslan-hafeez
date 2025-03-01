@@ -5,7 +5,7 @@
 </h1>
 
 <div id="badges">
-  <a target="_blank" href="https://www.linkedin.com/in/m-arslan-hafeez-1819a2138/">
+  <a target="_blank" href="https://www.linkedin.com/in/muhammad-arslan-hafeez-1819a2138/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp; &nbsp;
@@ -69,6 +69,6 @@ You may reach me via email at:
     
 or linkedin: 
 
-<a target="_blank" href="https://www.linkedin.com/in/m-arslan-hafeez-1819a2138/">
+<a target="_blank" href="https://www.linkedin.com/in/muhammad-arslan-hafeez-1819a2138/">
   <img src="https://img.shields.io/badge/-M%20Arslan%20Hafeez-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
