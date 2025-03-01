@@ -22,6 +22,7 @@
   - Thrives on tackling challenges head-on, finding innovative solutions that surpass expectations.
   - Enjoys working with fellow programmers, believing in the power of teamwork for superior results.
   - Proud leader of Dectuple Solution, dedicated to delivering excellence and innovation in IT Softwares and Design.
+  - Chief Executive Office in FEW Solutions Islamabad.
 
 ---
 
